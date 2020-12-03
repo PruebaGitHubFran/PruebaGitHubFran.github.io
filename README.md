@@ -62,9 +62,9 @@ Para una lista no ordenada usamos - y dos espacios:
 
 ##Links
 
-Quiero ir a [Google] (https://www.google.com/)
-Quiero ir a [Google] (https://www.google.com/ "Me gustan el fútbol") y se mostrará un mensaje encima del link
+Quiero ir a [Google](https://www.google.com/)
+Quiero ir a [Google](https://www.google.com/"Me gustan el fútbol") y se mostrará un mensaje encima del link
 
 Imagen
 
-[Fútbol] (https://concepto.de/wp-content/uploads/2015/02/futbol-1-e1550783405750.jpg"Me gustan el fútbol")  
+[Fútbol](https://concepto.de/wp-content/uploads/2015/02/futbol-1-e1550783405750.jpg"Me gustan el fútbol")  
