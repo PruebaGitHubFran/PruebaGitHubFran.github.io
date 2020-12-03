@@ -102,3 +102,16 @@ Otra cita
 >uno
 >dos
 >**tres**
+
+## Lineas separadores y HTML
+
+Contenido
+
+---
+
+Contenido
+
+--
+
+<p>Hola amigos **Como estan** <strong> Como ESTAS </strong> </p>
+
