@@ -70,3 +70,18 @@ Quiero ir a [Google](https://www.google.com/ "Me gustan el fútbol") y se mostra
 Imagen
 
 ![Fútbol](https://concepto.de/wp-content/uploads/2015/02/futbol-1-e1550783405750.jpg "Me gustan el fútbol")  
+
+
+##Código
+
+En `python` se puede crear variables vacías
+
+```python
+print("Hola mundo")
+```
+
+```
+$ apt get install xxx
+$ echo Hola
+$ apt update
+```
