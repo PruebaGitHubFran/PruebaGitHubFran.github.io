@@ -48,13 +48,23 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 Mi nombre es **Francis Soria** y me gusta la ~~computación~~
 
 
-Para hacer una lista no ordenada necesitamos hacerlo a través de (Un número). y dos espacios así no importa qué número sea: 
+Para hacer una lista ordenada necesitamos hacerlo a través de (Un número). y dos espacios así no importa qué número sea: 
 1.  Lunes
 2.  Martes
 11. Miércoles
 
-Para una lista ordenada usamos - y dos espacios:
+Para una lista no ordenada usamos - y dos espacios:
 
 -  Manzanas
 -  Peras
 -  Sandías
+
+
+##Links
+
+Quiero ir a [Google] (https://www.google.com/)
+Quiero ir a [Google] (https://www.google.com/ "Me gustan el fútbol") y se mostrará un mensaje encima del link
+
+Imagen
+
+[Fútbol] (https://concepto.de/wp-content/uploads/2015/02/futbol-1-e1550783405750.jpg"Me gustan el fútbol")  
