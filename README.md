@@ -76,9 +76,9 @@ Imagen
 
 En `python` se puede crear variables vacías
 
-`python
+``python
 print("Hola mundo")
-`
+``
 
 ```
 $ apt get install xxx
