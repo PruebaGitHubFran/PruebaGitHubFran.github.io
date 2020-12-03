@@ -85,3 +85,8 @@ $ apt get install xxx
 $ echo Hola
 $ apt update
 ```
+## Tablas
+
+|Nombre | Apellidos|
+|Francis|Soria|
+|Roberto|Salgado|
