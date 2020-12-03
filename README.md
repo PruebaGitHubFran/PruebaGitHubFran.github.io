@@ -99,6 +99,6 @@ $ apt update
 
 Otra cita
 
->uno 
+>uno
 >dos
 >**tres**
