@@ -88,6 +88,6 @@ $ apt update
 ## Tablas
 
 |Nombre | Apellidos|
-|---|---|
+|--|---|
 |Francis|Soria|
 |Roberto|Salgado|
