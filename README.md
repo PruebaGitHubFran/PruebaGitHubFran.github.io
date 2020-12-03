@@ -46,3 +46,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 Mi nombre es **Francis Soria** y me gusta la ~~computación~~
+
+
+Para hacer una lista no ordenada necesitamos hacerlo a través de (Un número). y dos espacios así no importa qué número sea: 
+1.  Lunes
+2.  Martes
+11. Miércoles
+
+Para una lista ordenada usamos - y dos espacios:
+
+-  Manzanas
+-  Peras
+-  Sandías
