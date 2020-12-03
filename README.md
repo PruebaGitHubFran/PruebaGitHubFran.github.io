@@ -76,9 +76,9 @@ Imagen
 
 En `python` se puede crear variables vacías
 
-``python
+```python
 print("Hola mundo")
-``
+```
 
 ```
 $ apt get install xxx
@@ -91,3 +91,14 @@ $ apt update
 |-|-|
 |Francis|Soria|
 |Roberto|Salgado|
+
+## Quotes
+
+> Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarguisimas y pues mas y mas
+> igual sigo siendo parte de la cita
+
+Otra cita
+
+>uno 
+>dos
+>**tres**
